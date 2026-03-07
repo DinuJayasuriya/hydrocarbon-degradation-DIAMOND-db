@@ -1,0 +1,1 @@
+# hydrocarbon-degradation-DIAMOND-db
