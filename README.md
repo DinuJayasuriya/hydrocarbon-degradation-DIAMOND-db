@@ -180,7 +180,7 @@ qseqid  sseqid  pident  length  mismatch  gapopen  qstart  qend  sstart  send  e
 
 If you use this database or pipeline, please cite:
 
--Jayasuriya D. (2026). Custom DIAMOND Protein Database for Hydrocarbon Degradation Genes in Estuarine Surface Water Metagenomes and Metatranscriptomes (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20940772
+-**Jayasuriya D. (2026). Custom DIAMOND Protein Database for Hydrocarbon Degradation Genes in Estuarine Surface Water Metagenomes and Metatranscriptomes (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20940772
 - **This study:** Jayasuriya et al. (in revisions). Genome-resolved hydrocarbon degradation potential in the Chesapeake and Delaware Bays.
 - **CANT-HYD:** Khot, V., et al. (2022). CANT-HYD: A Curated Database of Phylogeny-Derived HMMs for Annotation of Marker Genes Involved in Hydrocarbon Degradation. *Frontiers in Microbiology*, 12, 764058. https://doi.org/10.3389/fmicb.2021.764058
 - **DIAMOND:** Buchfink, B., Xie, C., & Huson, D. H. (2015). Fast and sensitive protein alignment using DIAMOND. *Nature Methods*, 12(1), 59–60.
