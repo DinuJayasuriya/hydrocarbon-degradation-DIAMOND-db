@@ -1,5 +1,7 @@
 # Hydrocarbon Degradation DIAMOND Database
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20940772.svg)](https://doi.org/10.5281/zenodo.20940772)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A custom DIAMOND protein database for detecting aerobic and anaerobic hydrocarbon degradation genes in metagenomic and metatranscriptomic datasets. This pipeline was developed for genome-resolved analysis of hydrocarbon degradation potential in the Chesapeake and Delaware Bays.
